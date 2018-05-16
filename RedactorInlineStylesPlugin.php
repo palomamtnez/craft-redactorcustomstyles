@@ -35,7 +35,7 @@ class RedactorInlineStylesPlugin extends BasePlugin
 
     public function getReleaseFeedUrl()
     {
-        return 'https://github.com/carlcs/craft-redactorinlinestyles/raw/master/releases.json';
+        return 'https://github.com/carlcs/craft-redactorinlinestyles/raw/v2/releases.json';
     }
 
     // Public Methods
