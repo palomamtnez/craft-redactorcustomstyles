@@ -1,7 +1,7 @@
 /**
  * Custom Redactor editor stylesheet
  *
- * Create a folder craft/config/cp/, add this CSS file to it and the styles will be included
+ * Create a folder craft/config/redactorinlinestyles/, add this CSS file to it and the styles will be included
  * with every CP page request automatically.
  */
 
